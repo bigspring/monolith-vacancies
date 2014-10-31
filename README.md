@@ -10,4 +10,4 @@ An add-on plugin for [Monolith](https://github.com/bigspring/monolith), designed
 * Built-in [ACF](http://www.advancedcustomfields.com) integration for custom fields
 
 ## Changelog
-* 1.0 hellow wembley!
+* 0.1 hellow wembley!
