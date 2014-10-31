@@ -45,3 +45,6 @@ function Monolith_Vacancies () {
 }
 
 Monolith_Vacancies();
+
+/* Declare the custom post type */
+Monolith_Vacancies()->register_post_type( 'job', __( 'Jobs', 'monolith-vacancies' ), __( 'Job', 'monolith-vacancies' ) );
